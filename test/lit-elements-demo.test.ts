@@ -1,14 +1,14 @@
-import DummyClass from "../src/lit-elements-demo"
+// import DummyClass from '../src/lit-elements-demo'
 
-/**
- * Dummy test
- */
-describe("Dummy test", () => {
-  it("works if true is truthy", () => {
-    expect(true).toBeTruthy()
-  })
+// /**
+//  * Dummy test
+//  */
+// describe('Dummy test', () => {
+//   it('works if true is truthy', () => {
+//     expect(true).toBeTruthy()
+//   })
 
-  it("DummyClass is instantiable", () => {
-    expect(new DummyClass()).toBeInstanceOf(DummyClass)
-  })
-})
+//   it('DummyClass is instantiable', () => {
+//     expect(new DummyClass()).toBeInstanceOf(DummyClass)
+//   })
+// })
